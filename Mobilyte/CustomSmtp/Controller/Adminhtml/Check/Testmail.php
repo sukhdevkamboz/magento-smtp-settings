@@ -3,6 +3,7 @@ namespace Mobilyte\CustomSmtp\Controller\Adminhtml\Check;
 
 class Testmail extends \Magento\Backend\App\Action
 {
+//     parposed changes by Sukhdev
 
     /**
      * @var PageFactory
